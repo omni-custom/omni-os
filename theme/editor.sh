@@ -1,0 +1,3 @@
+echo Hold on...
+. /var/themes/cssVars.sh
+echo Loaded the variables.
